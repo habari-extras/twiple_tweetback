@@ -2,7 +2,7 @@
 <pluggable type="plugin">
   <name>Twiple! Tweetback</name>
   <license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
-  <url>>http://ayu.commun.jp/habari-twiple-tweetback</url>
+  <url>http://ayu.commun.jp/habari-twiple-tweetback</url>
   <author url="http://ayu.commun.jp/">ayunyan</author>
   <version>0.1</version>
   <description><![CDATA[Adding Twiple! Tweetback to your posts.]]></description>
